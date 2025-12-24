@@ -43,12 +43,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rahul14rx/rahul14rx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ### ⚡ Current Status
 * 💻 Focusing on **Competitive Programming** in Python
 * 👯 Looking to collaborate on **Flutter & Next.js** projects
