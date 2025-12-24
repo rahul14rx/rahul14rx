@@ -41,7 +41,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/rahul14rx/rahul14rx/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/rahul14rx/rahul14rx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
