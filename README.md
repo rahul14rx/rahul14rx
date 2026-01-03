@@ -56,3 +56,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Ramamoorthy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+<div align="center">
+  <img src="https://github.com/rahul14rx/rahul14rx/raw/output/github-contribution-grid-snake.svg" alt="snake-animation" />
+</div>
