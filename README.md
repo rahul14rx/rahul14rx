@@ -43,7 +43,7 @@
 
 ---
 
-### ⚡ Current Status
+###  Current Status
 * 💻 Focusing on **Competitive Programming** in Python
 * 👯 Looking to collaborate on **Flutter & Next.js** projects
 * 💬 Ask me about **Mobile Dev & Algorithms**
@@ -57,7 +57,7 @@
   </a>
 </div>
 <div align="center">
-  <h3>🐍 The Contribution Snake</h3>
+  <h3> The Contribution Snake</h3>
   <img src="https://github.com/rahul14rx/rahul14rx/raw/output/github-contribution-grid-snake-dark.svg" alt="snake-animation" width="100%" />
 </div>
 
