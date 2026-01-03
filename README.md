@@ -57,5 +57,13 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://github.com/rahul14rx/rahul14rx/raw/output/github-contribution-grid-snake.svg" alt="snake-animation" />
+  <h3>🐍 The Contribution Snake</h3>
+  <img src="https://github.com/rahul14rx/rahul14rx/raw/output/github-contribution-grid-snake-dark.svg" alt="snake-animation" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <h3>🏗️ 3D Code City</h3>
+  <img src="https://github.com/rahul14rx/rahul14rx/raw/master/profile-3d-contrib/profile-night-green.svg" alt="3d-city" width="100%" />
 </div>
