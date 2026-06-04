@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Rahul+Ramamoorthy;Full+Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,000000,100,b90000&height=200&section=header&text=Rahul%20Ramamoorthy&fontSize=70&fontAlignY=38&animation=twinkling&fontColor=ffffff" alt="Rahul Ramamoorthy" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,7 +12,6 @@
 <div align="center">
   <h4>⏻ Tech Stack & Arsenal ⏻ </h4>
 </div>
-
 
 <div align="center">
   
@@ -60,5 +61,3 @@
   <h3> The Contribution Snake</h3>
   <img src="https://github.com/rahul14rx/rahul14rx/raw/output/github-contribution-grid-snake-dark.svg" alt="snake-animation" width="100%" />
 </div>
-
-
