@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.gif" alt="Rahul Ramamoorthy — competitive programming, full stack development and AI; planets moving around a central star" width="1000" />
+  <img src="assets/hero-v2.png" alt="Rahul Ramamoorthy — competitive programming, full stack development and AI; planets moving around a central star" width="1000" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@ I'm Rahul, a computer science student at **Chennai Institute of Technology**, gr
 
 My work spans full stack applications, AI experiments and systems engineering. Outside code, you'll find me painting or playing the keyboard.
 
-### 01 / Mission control
+<img src="assets/section-01.svg" alt="Mission control" width="1000" />
 
 | Focus | Current direction |
 | :--- | :--- |
@@ -20,11 +20,11 @@ My work spans full stack applications, AI experiments and systems engineering. O
 | Exploring | Distributed databases and reliable AI workflows |
 | Collaborating | Interesting projects with a clear problem to solve |
 
-### 02 / Milestones
+<img src="assets/section-02.svg" alt="Milestones" width="1000" />
 
 <img src="assets/achievements.png" alt="SIH 2025 Software Edition champion; Golden Coders Middle East 2023 winner; CSIC finalist" width="1000" />
 
-### 03 / Competitive orbit
+<img src="assets/section-03.svg" alt="Competitive orbit" width="1000" />
 
 I like problems that force me to rethink the first solution.
 
@@ -36,7 +36,7 @@ I like problems that force me to rethink the first solution.
 
 *The links lead to my current ratings and contest history.*
 
-### 04 / Featured worlds
+<img src="assets/section-04.svg" alt="Featured worlds" width="1000" />
 
 | Project | What it's about |
 | :--- | :--- |
@@ -49,7 +49,7 @@ I like problems that force me to rethink the first solution.
 
 [More experiments, including CryptoTracker →](https://github.com/rahul14rx?tab=repositories)
 
-### 05 / Tech constellation
+<img src="assets/section-05.svg" alt="Tech constellation" width="1000" />
 
 | Area | Tools I work with |
 | :--- | :--- |
@@ -59,24 +59,24 @@ I like problems that force me to rethink the first solution.
 | Data & AI | PostgreSQL · MongoDB · TensorFlow · scikit-learn · OpenCV |
 | Everyday tools | Git · Linux · Firebase · Jupyter |
 
-### 06 / Flight path
+<img src="assets/section-06.svg" alt="Flight path" width="1000" />
 
-<img src="assets/career-route.gif" alt="Career route: Resh and Thosh, KaarTech, NIT Puducherry, CRIS and Indian Railways" width="1000" />
+<img src="assets/career-route.png" alt="Career route: Resh and Thosh, KaarTech, NIT Puducherry, CRIS and Indian Railways" width="1000" />
 
 - **CRIS / Indian Railways — Software Engineering Intern, June–July 2026.** Continued working on OASIS after the internship.
 - **NIT Puducherry — Research Intern, May–July 2025.** Worked with Dr. Ansuman Mahapatra on Tamil medical question answering and reinforcement learning.
 - **KaarTech — Full stack Intern, 2025.** Worked on the KEBS Help Center using AngularJS, Node.js and MySQL.
 - **Resh and Thosh — Earlier internship.** Part of my first experience working in a software team.
 
-### 07 / Observatory
+<img src="assets/section-07.svg" alt="Observatory" width="1000" />
 
 Browse my [recent activity](https://github.com/rahul14rx) and [repositories](https://github.com/rahul14rx?tab=repositories) to see what I've been working on.
 
 <!-- Keep your existing contribution-snake image here if its generator is already configured.
      No fabricated contribution data or unconfigured third-party cards are included. -->
 
-### 08 / Open channel
+<img src="assets/section-08.svg" alt="Open channel" width="1000" />
 
 Have a project, an interesting problem or a collaboration in mind? Reach me on [LinkedIn](https://www.linkedin.com/in/rahul-ramamoorthy-38225a284/) or [email](mailto:rdrahul2005@gmail.com).
 
-<img src="assets/footer.gif" alt="Still curious. Still building. End of transmission." width="1000" />
+<img src="assets/footer.png" alt="Still curious. Still building. End of transmission." width="1000" />
